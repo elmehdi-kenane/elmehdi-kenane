@@ -1,4 +1,4 @@
-<img title="a title" alt="Alt text" src="./Group 43.png">
+<img title="a title" alt="Alt text" src="./github_banner.png">
 
 <h1>
 Programming/Markup Languages
@@ -35,6 +35,3 @@ Contact
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.youtube.com/)
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://www.youtube.com/)
 [![MY RESUME](https://img.shields.io/badge/MY_RESUME-836FFF?style=for-the-badge)](https://www.youtube.com/)
-
-<!-- repo description -->
-<!-- Welcome to my GitHub profile! Here you'll find a collection of my open-source projects, coding experiments, and contributions to various tech communities. I am passionate about full-stack development, systems programming, and continuously learning through hands-on projects. Feel free to explore my repositories, and don't hesitate to reach out if you're interested in collaborating or discussing technology. -->
